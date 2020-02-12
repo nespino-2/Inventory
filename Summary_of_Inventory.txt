@@ -1,0 +1,6 @@
+Inventory.h contains the following elements within the
+Inventory class constructor:
+
+m_name - the name of the item
+m_price -  the price of the Item
+m_in_stock - the amount of each particular item left
