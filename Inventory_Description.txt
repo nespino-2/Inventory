@@ -1,0 +1,4 @@
+The INVENTORY function in Inventory.cpp is the constructor for an Item
+
+the SELL function allows you to decrement the item count, so long as The
+item count is greater than or equal to zero.
